@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="3">
+        <date>21:02:2016</date>
+        <from>Kyiv</from>
+        <time>15:45</time>
+        <to>L'viv</to>
+    </train>
+    <train id="4">
+        <date>12:12:2016</date>
+        <from>Odessa</from>
+        <time>12:40</time>
+        <to>Kharkiv</to>
+    </train>
+    <train id="5">
+        <date>12:12:2016</date>
+        <from>L'viv</from>
+        <time>21:23</time>
+        <to>Moscow</to>
+    </train>
+</trains>
